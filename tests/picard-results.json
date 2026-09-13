@@ -1,0 +1,71 @@
+[
+  {
+    "strategy": "lookup",
+    "kind": "releases",
+    "resolved": [
+      {
+        "artist": "Biosphere",
+        "albumartist": "Biosphere",
+        "album": "Substrata",
+        "title": "Poa Alpina",
+        "year": "1997",
+        "track": 2,
+        "disc": 1,
+        "discs": 1,
+        "total": 11,
+        "recording": "5cf0ca2e-df73-4109-9e5c-0b98bfd04adf",
+        "release": "7c7cdb1e-9264-34b0-9295-e153b1aeb927",
+        "group": "c715c071-1e4e-335b-8a79-4e7ae29783ac",
+        "release_track": "762194fb-63e2-3b90-81d2-63ba05cc173c",
+        "seconds": 251.136,
+        "bitrate": 320000
+      }
+    ]
+  },
+  {
+    "strategy": "lookup",
+    "kind": "playlists",
+    "resolved": [
+      {
+        "artist": "Biosphere",
+        "albumartist": "Biosphere",
+        "album": "Substrata",
+        "title": "Poa Alpina",
+        "year": "1997",
+        "track": 2,
+        "disc": 1,
+        "discs": 1,
+        "total": 11,
+        "recording": "5cf0ca2e-df73-4109-9e5c-0b98bfd04adf",
+        "release": "7c7cdb1e-9264-34b0-9295-e153b1aeb927",
+        "group": "c715c071-1e4e-335b-8a79-4e7ae29783ac",
+        "release_track": "762194fb-63e2-3b90-81d2-63ba05cc173c",
+        "seconds": 251.136,
+        "bitrate": 320000
+      }
+    ]
+  },
+  {
+    "strategy": "scan",
+    "kind": "playlists",
+    "resolved": [
+      {
+        "artist": "Biosphere",
+        "albumartist": "Biosphere",
+        "album": "Substrata",
+        "title": "Poa Alpina",
+        "year": "1997",
+        "track": 2,
+        "disc": 1,
+        "discs": 1,
+        "total": 13,
+        "recording": "5cf0ca2e-df73-4109-9e5c-0b98bfd04adf",
+        "release": "c6f1a30b-82e0-4121-bdd6-3d4233d28c6b",
+        "group": "c715c071-1e4e-335b-8a79-4e7ae29783ac",
+        "release_track": "1506bad7-7994-3bf4-88bb-bd651f90ceef",
+        "seconds": 251.136,
+        "bitrate": 320000
+      }
+    ]
+  }
+]

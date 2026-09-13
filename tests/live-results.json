@@ -1,0 +1,32 @@
+{
+  "root": "/Users/jorgetorrico/.codex/.chatgpt-projects/g-p-685d04a29cf0819192d34906964dd1ce/Music Test/Live Test ef544d95",
+  "reports": [
+    {
+      "imported": 1,
+      "duplicates": 0,
+      "promoted": 0,
+      "pending": 0,
+      "playlists": 1,
+      "warnings": [],
+      "status": "IMPORT COMPLETE",
+      "transaction": "46f17fce21ca43c2a10300fbf0deca6e"
+    },
+    {
+      "imported": 9,
+      "duplicates": 1,
+      "promoted": 1,
+      "pending": 0,
+      "playlists": 1,
+      "warnings": [],
+      "status": "IMPORT COMPLETE",
+      "transaction": "96b9a11d678b4030b90983e22c21c2d2"
+    },
+    {
+      "checked": 1,
+      "changed": 0,
+      "missing": 0,
+      "playlists": 1
+    }
+  ],
+  "originals_unchanged": true
+}

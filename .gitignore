@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+.DS_Store
+._*
+config.json
+catalog.json
+import.log
+.lock
+Staging/
+Recovery/
+
